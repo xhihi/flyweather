@@ -22,6 +22,7 @@ import android.widget.Toast;
 import com.bumptech.glide.Glide;
 import com.flyweather.android.gson.Forecast;
 import com.flyweather.android.gson.Weather;
+import com.flyweather.android.service.AutoUpdateService;
 import com.flyweather.android.util.HttpUtil;
 import com.flyweather.android.util.Utility;
 
