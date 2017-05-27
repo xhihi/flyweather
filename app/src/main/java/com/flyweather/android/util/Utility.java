@@ -5,6 +5,7 @@ import android.text.TextUtils;
 import com.flyweather.android.db.City;
 import com.flyweather.android.db.County;
 import com.flyweather.android.db.Province;
+import com.flyweather.android.gson.Weather;
 import com.google.gson.Gson;
 
 import org.json.JSONArray;
